@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@aws-sdk/client-secrets-manager": "^3.319.0",
+    "@aws-sdk/client-secrets-manager": "^3.525.0",
     "@casl/ability": "^6.5.0",
     "@casl/mongoose": "^7.2.1",
     "@godaddy/terminus": "^4.12.0",
